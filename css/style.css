@@ -7967,39 +7967,54 @@ i.font60 {
 
 .d_timeline-text {
     margin: 0;
-    font-size: 1.2em;
+    font-size: 18px;
     font-weight: 700;
     font-family: "Chakra Petch", sans-serif;
     color: #FF56C9;
-    padding: 0 0 0px 40px
+    padding: 0 0 0px 40px;
 }
 .d_timeline-text3 {
     margin: 0;
-    font-size: 1.2em;
+    font-size: 18px;
     font-weight: 700;
     font-family: "Chakra Petch", sans-serif;
     color: #FF56C9;
-    padding: 0 0 75px 50px
+    padding: 0 0 75px 50px;
+}
+.d_timeline-text5 {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: "Chakra Petch", sans-serif;
+    color: #FF56C9;
+    padding: 0 0 75px 40px;
 }
 
 .d_timeline-text2 {
     margin: 0;
-    font-size: 1.2em;
+    font-size: 18px;
     font-weight: 700;
     font-family: "Chakra Petch", sans-serif;
     color: #00f1f5;
-    padding: 0 0 0px 40px
+    padding: 0 0 0px 40px;
 }
 
 .d_timeline-text4 {
     margin: 0;
-    font-size: 1.2em;
+    font-size: 18px;
     font-weight: 700;
     font-family: "Chakra Petch", sans-serif;
     color: #00f1f5;
-    padding: 0 0 75px 50px
+    padding: 0 0 75px 50px;
 }
-
+.d_timeline-text6 {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: "Chakra Petch", sans-serif;
+    color: #00f1f5;
+    padding: 0 0 75px 40px;
+}
 .d_timeline-text .d_title span {
     display: inline-block;
     font-weight: 500;
